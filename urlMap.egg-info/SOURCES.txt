@@ -1,0 +1,6 @@
+urlMap.egg-info/PKG-INFO
+urlMap.egg-info/SOURCES.txt
+urlMap.egg-info/dependency_links.txt
+urlMap.egg-info/entry_points.txt
+urlMap.egg-info/requires.txt
+urlMap.egg-info/top_level.txt
